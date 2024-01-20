@@ -1,0 +1,4 @@
+name: GUI Helper
+version: '${project.version}'
+main: me.mskatking.guihelper.GUIHelper
+api-version: '1.20'
